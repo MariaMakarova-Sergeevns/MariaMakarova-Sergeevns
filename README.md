@@ -4,8 +4,9 @@
 
 Сейчас я изучаю:  
 - 🐍 Python  
-- 🌐 HTML & CSS  
-- 🎨 Photoshop  
+- 🌐 HTML & CSS  & JS
+- 🎨 Photoshop
+- 🖌 Figma
 
 ## 🔭 Мои интересы
 - Рисование и дизайн  
